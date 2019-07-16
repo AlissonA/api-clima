@@ -9,7 +9,7 @@ body {
 }
 /* efeito para o titulo */
 h1{
-    background-color:rgba(223, 226, 225, 0.63);
+    background-color:rgba(143, 185, 171, 0.63);
     padding: 30px;
     text-align: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -33,4 +33,8 @@ h2{
     font-size: 18px;
     color:black;
     text-align: justify;    
+}
+.ali{
+    text-align: end;
+    color: cadetblue
 }
