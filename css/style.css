@@ -1,0 +1,39 @@
+/* efeitos para a borda */
+body {
+    margin: 0;
+    background: url("img/img1.gif") center center no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+    background-size: cover;
+}
+/* efeito para o titulo */
+h1{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 1px 1px 0px rgb(0, 0, 0); 
+    text-shadow:1px 1px 0px rgb(93, 95, 216);
+    font-size: 45px;
+    padding: 30px;
+    background-color:rgba(223, 226, 225, 0.733);
+}
+h2{
+    text-shadow: 1px 1px 0px rgb(0, 0, 0); 
+    text-shadow:1px 1px 0px rgb(250, 250, 250);
+    font-size: 30px;
+}
+/* efeito para o paragrafor */
+p{
+    font-size: 22px;
+    color:black;
+    text-align: justify;
+}
+/* sentraliza clima */
+.a{
+    text-align: center;
+}
+/* efeito para a div */
+.ts{
+    background-color:rgba(223, 226, 225, 0.733);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
